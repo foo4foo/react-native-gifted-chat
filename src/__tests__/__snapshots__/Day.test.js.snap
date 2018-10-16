@@ -18,9 +18,6 @@ exports[`should render <Day /> and compare with snapshot 1`] = `
     style={Object {}}
   >
     <Text
-      accessible={true}
-      allowFontScaling={true}
-      ellipsizeMode="tail"
       style={
         Array [
           Object {

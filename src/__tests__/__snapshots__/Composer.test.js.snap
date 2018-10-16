@@ -13,7 +13,6 @@ exports[`should render <Composer /> and compare with snapshot 1`] = `
   onChangeText={[Function]}
   onContentSizeChange={[Function]}
   placeholder="Type a message..."
-  placeholderTextColor={undefined}
   style={
     Array [
       Object {
